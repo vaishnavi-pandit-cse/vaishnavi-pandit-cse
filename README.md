@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**vaishnavi-pandit-cse/vaishnavi-pandit-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vaishnavi Pandit! 👋
 
-Here are some ideas to get you started:
+### First-Year Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a CSE student passionate about technology, programming, and continuous learning. I'm currently strengthening my programming fundamentals and exploring the world of software development and Artificial Intelligence.
+
+### 🎓 About Me
+- 🎓 Pursuing Computer Science and Engineering at D. Y. Patil College of Engineering & Technology, Kolhapur.
+- 💻 Learning Python and C Programming.
+- 🤖 Exploring Artificial Intelligence and Software Development.
+- 🌱 Interested in problem-solving and building practical projects.
+- 🚀 Believe in learning by doing.
+
+### 💻 Technical Skills
+- **Languages:** Python, C
+- **Tools:** VS Code, Git, GitHub
+- **Currently Exploring:** AI and Software Development
+
+### 🎯 My Goals
+- Strengthen my coding fundamentals.
+- Build meaningful projects.
+- Develop problem-solving skills.
+- Explore new technologies.
+- Contribute to open-source projects.
+
+### 📫 Connect With Me
+- LinkedIn: [Vaishnavi Pandit](https://www.linkedin.com/in/vaishnavi-pandit-a99873449/)
+
+---
+
+**Dream. Learn. Build. Repeat.**
+
